@@ -1,0 +1,15 @@
+This program was inspired by a day when me and my friends went out to dinner,
+and all of us spent varying amounts on different things, anybody was paying
+for anybody.
+
+This program takes as input a file (piped into its stdin) that specifies who
+spent how much, and who paid how much.
+
+Then it crunches these numbers, and outputs who spent how much (in all), 
+who paid how much and how much more has to be paid.
+
+The syntax of the input file is illustrated by a sample input file in the
+sample/ directory.
+
+PS: this is free software. it shall stay free, never be restricted.
+

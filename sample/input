@@ -1,0 +1,27 @@
+Person saurabh
+Person harshath
+Person abhishek
+Person saxena
+Person gg 
+
+# dinner shared among all 5
+Expense [*] 1150
+
+# auto expense, among only us three.. 
+# saurabh and bubu came by bike
+Expense [gg,saxena,harshath] 125
+
+# who paid how much for dinner
+Paid harshath 400 
+Paid abhishek 200
+Paid saurabh 400
+Paid gg 150
+
+# auto payments
+Paid gg 45
+Paid saxena 80
+
+# saxena kisi ke liye burger laaya tha..
+Expense [saxena] 145
+Paid gg 145
+

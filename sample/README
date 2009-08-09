@@ -1,0 +1,12 @@
+The file 'input' describes an outing where five friends spent varying amounts
+on different things. Its syntax is mostly self explanatory.
+
+And yes, there's no more to the syntax of the file. This sample input file
+demonstrates all possible uses of the syntax.
+
+How it was used:
+
+    cat input | dinner > output
+
+output is in the 'output' file.
+
